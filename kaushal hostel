@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-image:url(img/background.jpg);background-size:cover;background-repeat: no-repeat;">
+    <center>
+        <b><h1 style="color: rgb(126, 71, 3);font-family:cursive;background-color: rgb(131, 183, 100);" >RADHE-SHAM</h2></b>
+    </center>
+    <hr color="blue">
+
+
+    <img src="img/joshua-sortino-xZqr8WtYEJ0-unsplash.jpg" width="500" alt="hostel image"
+    style="float: left; border:solid rgb(158, 145, 5) 4px; padding:3px">
+    <pre style="font-size:30px;color: rgb(182, 109, 7);">
+        <b>Address:</b>
+           <i>-Above Sai pets and aquarium,<br>            near trimurty chowk</i> 
+    </pre>
+    <pre style="font-size:30px; color: rgb(174, 48, 13);">        > distance from college = 550m </pre>
+    <pre style="font-size:30px;color:rgb(175, 80, 3);">        > Rent 25k to 40k depanding on rooms
+         for 11 months ,Note:no one month agreement contact 
+         owner for more details and flexibility </pre>
+    <img src="img/wave.jpg" width="500" style="float: right;border:solid rgb(158, 145, 5) 4px; padding:3px"; alt="wave img">
+    <b><i>  <pre style="font-family:serif ;font-size: 40px;" >           Facilities</pre> </i></b>  
+    <ol  style="font-size:30px;">
+        <li>24hr hot water</li>
+        <li>regular cleaning of rooms as well as bathrooms</li>
+        <li>water filter available</li>
+        <li>Table and chair provided to each student</li>
+        <li>cctv camera security is available</li>
+        <li>one cupboard is provided</li>
+    </ol>   
+    
+</body>
+</html>

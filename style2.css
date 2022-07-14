@@ -1,0 +1,31 @@
+h1{
+    background-color:rgba(226, 234, 12, 0.785) 
+}
+
+.n{
+    color: rgb(226, 0, 15);
+
+}
+
+.background{
+    background-image: url("34.jpeg");
+}
+
+p{
+    color:rgb(81, 65, 225);
+    line-height:2.5;
+    font-weight:790;
+    text-indent:10px;
+    word-spacing: 2px;
+}
+
+h1{
+    text-align:center;
+    text-transform:uppercase ;
+    text-shadow:2px 2px 3px black
+     1px 2px 3px black;
+
+}
+
+
+

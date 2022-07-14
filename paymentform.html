@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN/PAYMENT</title>
+    <link rel="stylesheet" href="style2.css">
+    
+</head>
+<body>
+    <form action="mailto:shounakm11@gmail.com" method="post" enctype="text/plain">
+    <form >
+        <div class="background">
+            <h1> PAYMENT FORM </h1>
+            </div>
+            
+
+        <h2>CONTACT INFO</h2>
+        <label  >
+           <p>NAME:*<input type="text" class="n" placeholder="ENTER NAME" required></p> 
+            </label>
+        <label>
+           <p>EMAIL ID:*<input type="text" placeholder="ENTER EMAIL ID" required></p> 
+            
+        </label>  
+        <br>
+        <hr>
+        <label>
+            <fieldset>
+            <p> YOUR GENDER:*</p>
+            <input type="radio" value="MALE" name="GENDER" id="101" required>MALE   <!--HERE CLASS VALUE MUST BE SAME AS THEY BOTH COME UNDER ONE CATEGORY -->
+            <input type="radio" value="FEMALE" name="GENDER" id="102" required>FEMALE
+            </fieldset>
+
+        <br>
+        <label>
+            <p>ADDRESS:*<textarea name="ADDRESS" id="101" rows="7" cols="50" placeholder="PLEASE GIVE YOUR ADDRESS" required></textarea></p>
+
+        </label> 
+        <br>    
+        <label>
+           <p> PINCODE:*<input type="text" placeholder="PINCODE" required></p> 
+        </label>
+        <h3>PAYMENT INFORMATION</h3>
+        <label>
+            <p>
+                CARD TYPE:*
+                <select name="CARD" id="101" required>
+                    <option value="" >--SELECT A CARD TYPE--</option>
+                    <option value="VISA">VISA</option>
+                    <option value="MATERCARD">MASTERCARD</option>
+                    <option value="RUPAY">RUPAY</option>
+
+                </select>
+                <p>
+                     CARD NUMBER:* <input type="number" class="classnumber" name=" CARD NUMBER" id="101" required>
+                </p>
+
+                <p>
+                    EXPIRATION DATE:*<input type="date" class="date"  name="EXPIRATION DATE" id="101" required>
+
+                </p>
+                <p>
+                    PASSWORD:*<input type="password" class="passowrd"  id="101"  required> 
+                </p>
+                <p>
+                    <input type="submit"  value="PAY NOW" class="submit" id=" 101" required>
+                </p>
+        </label>
+    </form>
+    
+
+        
+    
+    
+</body>
+</html>
